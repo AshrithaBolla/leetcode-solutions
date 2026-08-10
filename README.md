@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/0179-largest-number) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
