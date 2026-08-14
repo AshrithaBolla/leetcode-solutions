@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/0179-largest-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
