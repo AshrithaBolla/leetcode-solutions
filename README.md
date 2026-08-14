@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0179-largest-number](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/0179-largest-number) |
 ## String
 |  |
@@ -40,4 +41,8 @@
 | [0610-triangle-judgement](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/0620-not-boring-movies) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AshrithaBolla/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
